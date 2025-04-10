@@ -2,7 +2,7 @@
   max-width: 600px;
   margin: 3rem auto;
   padding: 2rem;
-  background-color: #fefefe;
+  background-color: #101214;
   border-radius: 10px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.1);
   text-align: center;
@@ -11,12 +11,12 @@
 .contact-section h1 {
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: #333;
+  color: #dad4cc;
 }
 
 .contact-section p {
   margin-bottom: 2rem;
-  color: #555;
+  color: #c1baae;
 }
 
 .contact-form {
@@ -33,15 +33,16 @@
 .contact-form input,
 .contact-form textarea {
   padding: 0.75rem;
-  border: 1px solid #ccc;
+  border: 1px solid #3b4244;
   border-radius: 6px;
   font-size: 1rem;
   font-family: inherit;
+  background-color: #000;
 }
 
 .contact-form button {
   padding: 0.8rem;
-  background-color: #ff6f61;
+  background-color: #9c0200;
   color: white;
   border: none;
   border-radius: 6px;

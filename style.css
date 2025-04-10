@@ -55,13 +55,15 @@ body {
 }
 
 .hero-img {
-  width: 400px;
-  margin-right: 5rem;
+  max-width: 400px;
+  margin: 0 5rem;
   border-radius: 5%;
 }
 
 .hero-text {
   max-width: 600px;
+  text-align: center;
+  margin-top: 30px;
 }
 
 .hero-text h1 {
