@@ -179,6 +179,11 @@ body {
     display: none;
   }
 
+  .book-row img {
+    width: 70vw;
+    height: 30vh;
+  }
+
   #side-icon {
     visibility: visible;
   }
